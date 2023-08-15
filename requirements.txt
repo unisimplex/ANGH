@@ -1,0 +1,3 @@
+mediapipe==0.10.0
+opencv_python==4.7.0.68
+pywhatkit==5.4
